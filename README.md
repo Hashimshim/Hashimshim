@@ -2,9 +2,9 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Hachim Khaldi</h1>
 <h3 align="center">A software engineering & artificial intelligence student at ENSAM CASABLANCA</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hashimshim&label=Profile%20views&color=0e75b6&style=flat" alt="hashimshim" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hashimshim&label=Profile%20views&color=0e75b6&style=flat" alt="hashimshim" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hashimshim" alt="hashimshim" /></a> </p>
+
 
 ## <img src="https://github.com/Hashimshim/Hashimshim/blob/main/Developer.gif" width="45px"> About Me:
 - 🔭 I’m currently in **my 4th year at ENSAM CASABLANCA**
@@ -32,3 +32,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hashimshim&show_icons=true&locale=en&layout=compact" alt="hashimshim" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hashimshim&show_icons=true&locale=en" alt="hashimshim" /></p>
+
+## Git Trophies
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hashimshim&rank=SSS,SS,S,A,AA,AAA,B,C,SECRET&theme=gruvbox" alt="hashimshim" /></a> </p>
