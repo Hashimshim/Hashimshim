@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hashimshim&label=Profile%20views&color=0e75b6&style=flat" alt="hashimshim" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hashimshim" alt="hashimshim" /></a> </p>
-
+### <img src="https://github.com/Hashimshim/Hashimshim/blob/main/Developer.gif" width="45px"> About Me:
 - 🔭 I’m currently in **my 4th year at ENSAM CASABLANCA**
 
 - 👯 I’m looking to collaborate on **new projects**
