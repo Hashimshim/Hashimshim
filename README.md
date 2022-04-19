@@ -35,3 +35,5 @@
 
 ## Git Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hashimshim&rank=SSS,SS,S,A,AA,AAA,B,C,SECRET&theme=gruvbox" alt="hashimshim" /></a> </p>
+
+![Snake animation](https://github.com/Hashimshim/Hashimshim/blob/output/github-contribution-grid-snake.svg)
