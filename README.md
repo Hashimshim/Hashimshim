@@ -29,11 +29,12 @@
 
 ## Github analytics
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hashimshim&show_icons=true&locale=en&layout=compact" alt="hashimshim" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hashimshim&show_icons=true&locale=en&layout=compact&theme=radical" alt="hashimshim" /></p>   
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hashimshim&show_icons=true&locale=en" alt="hashimshim" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hashimshim&show_icons=true&locale=en&theme=radical" alt="hashimshim" /></p>
 
 ## Git Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hashimshim&rank=SSS,SS,S,A,AA,AAA,B,C,SECRET&theme=gruvbox" alt="hashimshim" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hashimshim&rank=SSS,SS,S,A,AA,AAA,B,C,SECRET&theme=radical" alt="hashimshim" /></a> </p>
 
 ![Snake animation](https://github.com/Hashimshim/Hashimshim/blob/output/github-contribution-grid-snake.svg)
