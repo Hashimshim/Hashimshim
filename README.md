@@ -7,7 +7,7 @@
 
 
 ## <img src="https://github.com/Hashimshim/Hashimshim/blob/main/Developer.gif" width="45px"> About Me:
-- 🔭 I’m currently in **my 4th year at ENSAM CASABLANCA**
+- 🔭 I’m currently in **my 5th year at ENSAM CASABLANCA**
 
 - 👯 I’m looking to collaborate on **new projects**
 
