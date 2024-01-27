@@ -1,17 +1,13 @@
 
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Hachim Khaldi</h1>
-<h3 align="center">A software engineering & artificial intelligence student at ENSAM CASABLANCA</h3>
+<h3 align="center">Software engineering & artificial intelligence</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hashimshim&label=Profile%20views&color=0e75b6&style=flat" alt="hashimshim" /> </p>
 
 
 
 ## <img src="https://github.com/Hashimshim/Hashimshim/blob/main/Developer.gif" width="45px"> About Me:
-- 🔭 I’m currently in **my 5th year at ENSAM CASABLANCA**
-
-- 👯 I’m looking to collaborate on **new projects**
-
-- 🤝 I’m looking for **interships and job offers**
+- 🔭 Currently a DevOps engineer at **Jaanga Inc.**
 
 
 ##  📫 Contact me 
